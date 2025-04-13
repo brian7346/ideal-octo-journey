@@ -1,130 +1,592 @@
 {
-    "problems": [
-      {
-        "id": "01-basic-types.problem.ts",
-        "title": "Базовые типы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "02-functions.problem.ts",
-        "title": "Функции",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "03-interfaces.problem.ts",
-        "title": "Интерфейсы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "04-generics.problem.ts",
-        "title": "Дженерики",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "05-enum.problem.ts",
-        "title": "Перечисления",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "06-union-types.problem.ts",
-        "title": "Объединение типов",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "07-type-assertions.problem.ts",
-        "title": "Утверждения типов",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "08-optional-properties.problem.ts",
-        "title": "Опциональные свойства",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "09-readonly-properties.problem.ts",
-        "title": "Свойства только для чтения",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "10-type-aliases.problem.ts",
-        "title": "Псевдонимы типов",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "11-utility-types.problem.ts",
-        "title": "Служебные типы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "12-classes.problem.ts",
-        "title": "Классы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "13-abstract-classes.problem.ts",
-        "title": "Абстрактные классы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "14-method-decorators.problem.ts",
-        "title": "Декораторы методов",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "15-property-decorators.problem.ts",
-        "title": "Декораторы свойств",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "16-namespace.problem.ts",
-        "title": "Пространства имён",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "17-modules.problem.ts",
-        "title": "Модули",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "18-type-guards.problem.ts",
-        "title": "Защитники типов",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "19-mapped-types.problem.ts",
-        "title": "Сопоставленные типы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "20-conditional-types.problem.ts",
-        "title": "Условные типы",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      },
-      {
-        "id": "vite-env.d.ts",
-        "title": "Окружение Vite",
-        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
-        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
-      }
-    ]
-  }
+  "problems": [
+    {
+      "id": "00-intro.explainer.ts",
+      "title": "00 Intro.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "01-return-what-i-pass-in.problem.ts",
+      "title": "01 Return What I Pass In.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "01-return-what-i-pass-in.solution.ts",
+      "title": "01 Return What I Pass In.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "02-generic-constraints.problem.ts",
+      "title": "02 Generic Constraints.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "02-generic-constraints.solution.ts",
+      "title": "02 Generic Constraints.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "03-multiple-generics.problem.ts",
+      "title": "03 Multiple Generics.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "03-multiple-generics.solution.ts",
+      "title": "03 Multiple Generics.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "04-multiple-generics-per-object.problem.ts",
+      "title": "04 Multiple Generics Per Object.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "04-multiple-generics-per-object.solution.1.ts",
+      "title": "04 Multiple Generics Per Object.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "04-multiple-generics-per-object.solution.2.ts",
+      "title": "04 Multiple Generics Per Object.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "04-multiple-generics-per-object.solution.3.ts",
+      "title": "04 Multiple Generics Per Object.solution.3",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "04.5-excalidraw-sum-function.explainer.ts",
+      "title": "04.5 Excalidraw Sum Function.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "05-generics-in-classes.problem.ts",
+      "title": "05 Generics In Classes.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "05-generics-in-classes.solution.ts",
+      "title": "05 Generics In Classes.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "06-generic-mapper.problem.ts",
+      "title": "06 Generic Mapper.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "06-generic-mapper.solution.ts",
+      "title": "06 Generic Mapper.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "06.5-orta-generics.explainer.ts",
+      "title": "06.5 Orta Generics.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "07-create-new-set.problem.ts",
+      "title": "07 Create New Set.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "07-create-new-set.solution.ts",
+      "title": "07 Create New Set.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "08-default-generics.problem.ts",
+      "title": "08 Default Generics.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "08-default-generics.solution.ts",
+      "title": "08 Default Generics.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "09-generics-in-type-arguments-in-arguments.problem.ts",
+      "title": "09 Generics In Type Arguments In Arguments.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "09-generics-in-type-arguments-in-arguments.solution.ts",
+      "title": "09 Generics In Type Arguments In Arguments.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "10-reduce.problem.ts",
+      "title": "10 Reduce.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "10-reduce.solution.ts",
+      "title": "10 Reduce.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "11-data-fetcher.problem.ts",
+      "title": "11 Data Fetcher.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "11-data-fetcher.solution.ts",
+      "title": "11 Data Fetcher.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "11.1-passing-type-arguments-in-cal.com.explainer.ts",
+      "title": "11.1 Passing Type Arguments In Cal.com.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "11.2-mark-erikson-story.explainer.ts",
+      "title": "11.2 Mark Erikson Story.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "12-generics-at-different-levels.problem.ts",
+      "title": "12 Generics At Different Levels.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "12-generics-at-different-levels.solution.1.ts",
+      "title": "12 Generics At Different Levels.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "12-generics-at-different-levels.solution.2.ts",
+      "title": "12 Generics At Different Levels.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "13-typed-object-keys.problem.ts",
+      "title": "13 Typed Object Keys.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "13-typed-object-keys.solution.1.ts",
+      "title": "13 Typed Object Keys.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "13-typed-object-keys.solution.2.ts",
+      "title": "13 Typed Object Keys.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14-safe-function.problem.ts",
+      "title": "14 Safe Function.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14-safe-function.solution.1.ts",
+      "title": "14 Safe Function.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14-safe-function.solution.2.ts",
+      "title": "14 Safe Function.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14.5-literal-inference.explainer.ts",
+      "title": "14.5 Literal Inference.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14.6-literal-inference-on-arguments.explainer.ts",
+      "title": "14.6 Literal Inference On Arguments.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14.7-string-number-union.problem.ts",
+      "title": "14.7 String Number Union.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "14.7-string-number-union.solution.ts",
+      "title": "14.7 String Number Union.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "15-array-or-array-member-in-generics.problem.ts",
+      "title": "15 Array Or Array Member In Generics.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "15-array-or-array-member-in-generics.solution.ts",
+      "title": "15 Array Or Array Member In Generics.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "16-class-names-creator.problem.ts",
+      "title": "16 Class Names Creator.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "16-class-names-creator.solution.1.ts",
+      "title": "16 Class Names Creator.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "16-class-names-creator.solution.2.ts",
+      "title": "16 Class Names Creator.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "16.5-generics-in-react-query.explainer.ts",
+      "title": "16.5 Generics In React Query.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "17-you-say-goodbye-i-say-hello.problem.ts",
+      "title": "17 You Say Goodbye I Say Hello.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "17-you-say-goodbye-i-say-hello.solution.1.ts",
+      "title": "17 You Say Goodbye I Say Hello.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "17-you-say-goodbye-i-say-hello.solution.2.ts",
+      "title": "17 You Say Goodbye I Say Hello.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "17.5-inference-inside-generic-functions.problem.ts",
+      "title": "17.5 Inference Inside Generic Functions.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "17.5-inference-inside-generic-functions.solution.ts",
+      "title": "17.5 Inference Inside Generic Functions.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "18-generic-currying.problem.ts",
+      "title": "18 Generic Currying.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "18-generic-currying.solution.ts",
+      "title": "18 Generic Currying.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "19-generic-interfaces-with-functions.problem.ts",
+      "title": "19 Generic Interfaces With Functions.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "19-generic-interfaces-with-functions.solution.ts",
+      "title": "19 Generic Interfaces With Functions.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20-spotting-useless-generics.problem.ts",
+      "title": "20 Spotting Useless Generics.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20-spotting-useless-generics.solution.ts",
+      "title": "20 Spotting Useless Generics.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.5-spotting-missing-generics.problem.ts",
+      "title": "20.5 Spotting Missing Generics.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.5-spotting-missing-generics.solution.ts",
+      "title": "20.5 Spotting Missing Generics.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.6-reusable-context.problem.ts",
+      "title": "20.6 Reusable Context.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.6-reusable-context.solution.ts",
+      "title": "20.6 Reusable Context.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.6-trpc-builder.explainer.ts",
+      "title": "20.6 Trpc Builder.explainer",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.7-working-around-partial-inference.problem.ts",
+      "title": "20.7 Working Around Partial Inference.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "20.7-working-around-partial-inference.solution.ts",
+      "title": "20.7 Working Around Partial Inference.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "21-what-is-a-function-overload.problem.ts",
+      "title": "21 What Is A Function Overload.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "21-what-is-a-function-overload.solution.ts",
+      "title": "21 What Is A Function Overload.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "22-function-overloads-vs-conditional-types.problem.ts",
+      "title": "22 Function Overloads Vs Conditional Types.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "22-function-overloads-vs-conditional-types.solution.ts",
+      "title": "22 Function Overloads Vs Conditional Types.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "23-function-overload-implementation.problem.ts",
+      "title": "23 Function Overload Implementation.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "23-function-overload-implementation.solution.ts",
+      "title": "23 Function Overload Implementation.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "24-function-overloads-vs-union-types.problem.ts",
+      "title": "24 Function Overloads Vs Union Types.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "24-function-overloads-vs-union-types.solution.1.ts",
+      "title": "24 Function Overloads Vs Union Types.solution.1",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "24-function-overloads-vs-union-types.solution.2.ts",
+      "title": "24 Function Overloads Vs Union Types.solution.2",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "25-generics-in-function-overloads.problem.ts",
+      "title": "25 Generics In Function Overloads.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "25-generics-in-function-overloads.solution.ts",
+      "title": "25 Generics In Function Overloads.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "26-document.queryselector-example.problem.ts",
+      "title": "26 Document.queryselector Example.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "26-document.queryselector-example.solution.ts",
+      "title": "26 Document.queryselector Example.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "27-use-data-hook.problem.ts",
+      "title": "27 Use Data Hook.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "27-use-data-hook.solution.ts",
+      "title": "27 Use Data Hook.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "28-could-be-instantiated-with-subtype-of.problem.ts",
+      "title": "28 Could Be Instantiated With Subtype Of.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "28-could-be-instantiated-with-subtype-of.solution.ts",
+      "title": "28 Could Be Instantiated With Subtype Of.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "29-infinite-scroll.problem.ts",
+      "title": "29 Infinite Scroll.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "29-infinite-scroll.solution.ts",
+      "title": "29 Infinite Scroll.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "29.2-dynamic-function-arguments.problem.ts",
+      "title": "29.2 Dynamic Function Arguments.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "29.2-dynamic-function-arguments.solution.ts",
+      "title": "29.2 Dynamic Function Arguments.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "29.5-pick.problem.ts",
+      "title": "29.5 Pick.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "29.5-pick.solution.ts",
+      "title": "29.5 Pick.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "30-form-validator.problem.ts",
+      "title": "30 Form Validator.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "30-form-validator.solution.ts",
+      "title": "30 Form Validator.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "32-data-fetcher-with-warning.problem.ts",
+      "title": "32 Data Fetcher With Warning.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "32-data-fetcher-with-warning.solution.ts",
+      "title": "32 Data Fetcher With Warning.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "33-compose.problem.ts",
+      "title": "33 Compose.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "33-compose.solution.ts",
+      "title": "33 Compose.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "34-internationalization.problem.ts",
+      "title": "34 Internationalization.problem",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "34-internationalization.solution.ts",
+      "title": "34 Internationalization.solution",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "type-utils.ts",
+      "title": "Type Utils",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    }
+  ]
+}
