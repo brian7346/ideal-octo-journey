@@ -1,0 +1,130 @@
+{
+    "problems": [
+      {
+        "id": "01-basic-types.problem.ts",
+        "title": "Базовые типы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "02-functions.problem.ts",
+        "title": "Функции",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "03-interfaces.problem.ts",
+        "title": "Интерфейсы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "04-generics.problem.ts",
+        "title": "Дженерики",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "05-enum.problem.ts",
+        "title": "Перечисления",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "06-union-types.problem.ts",
+        "title": "Объединение типов",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "07-type-assertions.problem.ts",
+        "title": "Утверждения типов",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "08-optional-properties.problem.ts",
+        "title": "Опциональные свойства",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "09-readonly-properties.problem.ts",
+        "title": "Свойства только для чтения",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "10-type-aliases.problem.ts",
+        "title": "Псевдонимы типов",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "11-utility-types.problem.ts",
+        "title": "Служебные типы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "12-classes.problem.ts",
+        "title": "Классы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "13-abstract-classes.problem.ts",
+        "title": "Абстрактные классы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "14-method-decorators.problem.ts",
+        "title": "Декораторы методов",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "15-property-decorators.problem.ts",
+        "title": "Декораторы свойств",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "16-namespace.problem.ts",
+        "title": "Пространства имён",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "17-modules.problem.ts",
+        "title": "Модули",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "18-type-guards.problem.ts",
+        "title": "Защитники типов",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "19-mapped-types.problem.ts",
+        "title": "Сопоставленные типы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "20-conditional-types.problem.ts",
+        "title": "Условные типы",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      },
+      {
+        "id": "vite-env.d.ts",
+        "title": "Окружение Vite",
+        "descriptionVideoId": "5D3FUHA9Hh6dYVCAC1TrbV",
+        "solutionVideoId": "vaXsuBnhaTdthrg5LiQQi9"
+      }
+    ]
+  }
